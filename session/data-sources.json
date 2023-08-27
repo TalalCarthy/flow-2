@@ -1,0 +1,22 @@
+[
+    {
+        "name": "file-1",
+        "path": "./files/file-1.pdf"
+    },
+    {
+        "name": "file-2",
+        "path": "./files/file.txt"
+    },
+    {
+        "name": "owner",
+        "path": "./files/Alternative Clauses to Standard Construction Contracts Heady.cleaned.pdf"
+    },
+    {
+        "name": "owner 2",
+        "path": "./files/AIA A102.docx"
+    },
+    {
+        "name": "owner 3",
+        "path": "./files/AIA A201.docx"
+    }
+]
